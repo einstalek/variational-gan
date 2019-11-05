@@ -23,12 +23,12 @@ python train.py
 ```
 
 ## Results
-#### Sampling from latent space 
-* Faces, randomly generated from latent space
+#### Random sampling 
+Randomly generated faces          |  Interpolation in latent space
+:-------------------------:|:-------------------------:
+<img src="./random-faces.png " width="400" height="400">  |  <img src="./interpolation.png " width="400" height="400">
 
-<img src="./random-faces.png " width="400" height="400">
-
-####  Reconstruction from latent space
+#### Reconstruction
 
 Faces from original dataset          |  Reconstructions
 :-------------------------:|:-------------------------:
