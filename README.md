@@ -26,13 +26,13 @@ python train.py
 #### Random sampling 
 Randomly generated faces          |  Interpolation in latent space
 :-------------------------:|:-------------------------:
-<img src="./random-faces.png " width="400" height="400">  |  <img src="./interpolation.png " width="400" height="400">
+<img src="./images/random-faces.png " width="400" height="400">  |  <img src="./images/interpolation.png " width="400" height="400">
 
 #### Reconstruction
 
 Faces from original dataset          |  Reconstructions
 :-------------------------:|:-------------------------:
-<img src="./reconstruction-real.png " width="400" height="400">  |  <img src="./reconstruction-fake.png " width="400" height="400">
+<img src="./images/reconstruction-real.png " width="400" height="400">  |  <img src="./images/reconstruction-fake.png " width="400" height="400">
 
 ## Links
 * [Paper on variational GAN with critic](https://docs.google.com/document/d/1BN6-4jeCU4xXMLtFPaltRlhMjnVWl82j1AcAVYUm5PE/edit?usp=sharing) (in Russian)
