@@ -31,7 +31,7 @@ python train.py
 ####  Reconstruction from latent space
 * Faces from original dataset and their reconstructions
 
-Solarized dark             |  Solarized Ocean
+Faces from original dataset          |  Reconstructions
 :-------------------------:|:-------------------------:
 <img src="./reconstruction-real.png " width="400" height="400">  |  <img src="./reconstruction-real.png " width="400" height="400">
 
