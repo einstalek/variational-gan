@@ -9,7 +9,16 @@ Final Model is composed of:
 - Latent space discriminator (C)
 - Critic-network (S)
 
-<img src="./model-scheme.jpg " width="400" height="400">
+<img src="./model-scheme.jpg " width="340" height="340">
+
+Here are some examples of trained GAN's work:
+
+* Faces, randomly generated from latent space
+<img src="./random-faces.png " width="500" height="500">
+
+* Faces from original dataset and thier reconstructions
+<img src="./reconstruction-real.png " width="500" height="500">
+<img src="./reconstruction-fake.png " width="500" height="500">
 
 Pretrained weights are available at:
 https://drive.google.com/file/d/1nR4MkdTwpixklpKZNX45t-5ZRf_GTAaz/view?usp=sharing
