@@ -33,7 +33,7 @@ python train.py
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![]("./reconstruction-real.png")  |  ![]("./reconstruction-fake.png")
+![]("https://github.com/einstalek/variational-gan/blob/master/reconstruction-real.png")  |  ![]("https://github.com/einstalek/variational-gan/blob/master/reconstruction-fake.png")
 
 ## Links
 * [Paper on variational GAN with critic](https://docs.google.com/document/d/1BN6-4jeCU4xXMLtFPaltRlhMjnVWl82j1AcAVYUm5PE/edit?usp=sharing) (in Russian)
