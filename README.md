@@ -13,19 +13,28 @@ Final Model is composed of:
 
 <img src="./model-scheme.jpg " width="340" height="340">
 
-## Results
+## Usage
+#### Data preparation
+Download [celebA](https://www.kaggle.com/jessicali9530/celeba-dataset) dataset
+#### Training a model
+Put path to dataset directory in train.py in CriticGan instance and run: 
+```
+python train.py
+```
 
-### Sampling from latent space 
+## Results
+#### Sampling from latent space 
 * Faces, randomly generated from latent space
 
-<img src="./random-faces.png " width="500" height="500">
+<img src="./random-faces.png " width="400" height="400">
 
-###  Reconstruction from latent space
+####  Reconstruction from latent space
 * Faces from original dataset and their reconstructions
 
-<img src="./reconstruction-real.png " width="500" height="500">
+<img src="./reconstruction-real.png " width="400" height="400">
 
-<img src="./reconstruction-fake.png " width="500" height="500">
+
+<img src="./reconstruction-fake.png " width="400" height="400">
 
 
 ## Links
