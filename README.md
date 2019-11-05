@@ -9,7 +9,7 @@ Final Model is composed of:
 - Latent space discriminator (C)
 - Critic-network (S)
 
-![](https://github.com/einstalek/variational-gan/blob/master/model-scheme.jpg | width=340)
+<img src="./model-scheme.jpg " width="100" height="100">
 
 Pretrained weights are available at:
 https://drive.google.com/file/d/1nR4MkdTwpixklpKZNX45t-5ZRf_GTAaz/view?usp=sharing
