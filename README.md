@@ -11,7 +11,7 @@ Final Model is composed of:
 - Latent space discriminator (C)
 - Critic-network (S)
 
-<img src="./model-scheme.jpg " width="340" height="340">
+<img src="./images/model-scheme.jpg " width="340" height="340">
 
 ## Usage
 #### Data preparation
