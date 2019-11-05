@@ -29,11 +29,10 @@ python train.py
 <img src="./random-faces.png " width="400" height="400">
 
 ####  Reconstruction from latent space
-* Faces from original dataset and their reconstructions
 
 Faces from original dataset          |  Reconstructions
 :-------------------------:|:-------------------------:
-<img src="./reconstruction-real.png " width="400" height="400">  |  <img src="./reconstruction-real.png " width="400" height="400">
+<img src="./reconstruction-real.png " width="400" height="400">  |  <img src="./reconstruction-fake.png " width="400" height="400">
 
 ## Links
 * [Paper on variational GAN with critic](https://docs.google.com/document/d/1BN6-4jeCU4xXMLtFPaltRlhMjnVWl82j1AcAVYUm5PE/edit?usp=sharing) (in Russian)
