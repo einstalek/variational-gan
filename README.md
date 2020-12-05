@@ -35,6 +35,9 @@ Faces from original dataset          |  Reconstructions
 <img src="./images/reconstruction-real.png " width="400" height="400">  |  <img src="./images/reconstruction-fake.png " width="400" height="400">
 
 ## Links
-* [Paper on variational GAN with critic](https://docs.google.com/document/d/1BN6-4jeCU4xXMLtFPaltRlhMjnVWl82j1AcAVYUm5PE/edit?usp=sharing) (in Russian)
+* [Paper abstract on variational GAN with critic, in English](https://docs.google.com/document/d/1nLn8K2qPqiQy0baZWrhOWw9l6Qq5qBrot4_uuzM7y4g/edit?usp=sharing)
+
+* [Paper on variational GAN with critic, in Russian](https://docs.google.com/document/d/1BN6-4jeCU4xXMLtFPaltRlhMjnVWl82j1AcAVYUm5PE/edit?usp=sharing)
 
 * [Model's weights pretrained on celebA dataset](https://drive.google.com/file/d/1nR4MkdTwpixklpKZNX45t-5ZRf_GTAaz/view?usp=sharing)
+
