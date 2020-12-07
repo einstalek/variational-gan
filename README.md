@@ -1,7 +1,7 @@
 # Code for Variational GAN with critic
 
 This project was developed as a part of my Master's research. 
-The main idea is to use Сritic network to improve GAN's ability to reconstruct original pictures. Instead of simply using L1 loss to evaluate reconstructed objects, Critic approximates joint distribution on real objects pairs. 
+The main idea is to use Сritic network to improve GAN's ability to reconstruct original pictures. Instead of simply using L1 loss to evaluate reconstructed objects, Critic approximates joint distribution on objects pairs. 
 
 ## Model architecture 
 Final Model is composed of:
